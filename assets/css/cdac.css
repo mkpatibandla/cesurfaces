@@ -1,0 +1,122 @@
+@charset "utf-8";
+.col-md-offset-cdac1 {
+	margin-left: 20px;
+}
+.box-style {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+
+}
+.jumbotron .search-style {
+	background-color: #4d4d4d;
+	height: 99px;
+	margin-bottom: 20px;
+}
+.jumbotron .graybox-style {
+	background-color: #f1f1f1;
+	padding: 20px;
+}
+.mhrd-logo {
+	background-image: url(../images/mhda-logo.jpg);
+	height: 74px;
+	width: 169px;
+	float: right;
+}
+.image-wrap {
+	width: 100%;
+	position: relative;
+}.certificate:before {
+	background-size: 73px 70px;
+	content: "";
+	height: 82px;
+	position: absolute;
+	right: -8px;
+	top: -12px;
+	width: 73px;
+	background-image: url(../images/certificate.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;	
+	
+}
+.rating:before {
+	background-size: 58px 38px;
+	content: "";
+	height: 40px;
+	position: absolute;
+	right: -25px;
+	top: 130px;
+	width: 80px;
+	background-image: url(../images/rating.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;	
+}
+
+.grayline {
+	margin-bottom: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.blue-fontcolor {
+	color: #217b9d;
+}
+.white-fontcolor {
+	color: #FFFFFF;
+}
+.footer-lightgray {
+	background-color: #edecec;
+	padding: 20px;
+}
+.footer-darkgray {
+	background-color: #c4bab1;
+	border-top-width: 3px;
+	border-top-style: solid;
+	border-top-color: #b7a99a;
+}
+.search-offcet {
+	padding-top: 30px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.dropdown-menu ul {
+	background-color: #f25a29;
+	margin: 10px;
+	height: 200px;
+	padding-top: 1;
+	padding-right: 0px;
+	padding-bottom: 1;
+	padding-left: 0px;
+}
+
+.dropdown-menu li {
+	display: inline-block;
+	background-color: #f25a29;
+	width: 130px;
+	margin: 0px;
+	padding: 0px;
+}
+.dropdown-menu :a {
+	background-color: #f25a29;
+	width: 130px;
+	margin: 0px;
+	padding: 0px;
+}
+.dropdown-menu li a:link {
+	background-color: #f25a29;
+	width: 130px;
+	margin: 0px;
+	padding: 0px;
+}
+.dropdown-menu li a:hover {
+	background-color: #f25a29;
+	width: 130px;
+	margin: 0px;
+	padding: 0px;
+}.sign-head {
+	text-align: center;
+	display: block;
+	padding: 5px;
+	clear: both;
+	height: 50px;
+	width: 100%;
+}
